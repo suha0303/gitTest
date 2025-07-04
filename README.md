@@ -1,2 +1,1 @@
-git test.
-Hello Git!
+git test
